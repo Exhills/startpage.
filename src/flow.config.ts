@@ -13,7 +13,7 @@ export const flowConfig: Config = {
   links: [
     {
       type: "Socials",
-      color: "green-",
+      color: "blue-",
       links: [
         {
           name: "Discord",
