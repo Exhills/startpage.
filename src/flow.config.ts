@@ -24,30 +24,38 @@ export const flowConfig: Config = {
           url: "https://twitter.com",
         },
         {
-          name: "Instagram",
-          url: "https://instagram.com",
+          name: "Steam",
+          url: "https://store.steampowered.com/",
         },
         {
           name: "Reddit",
           url: "https://reddit.com",
         },
-      ],
-    },
-    {
-      type: "Work",
-      color: "teal-",
-      links: [
         {
-          name: "GitHub",
+          name: "Github",
           url: "https://github.com",
         },
         {
-          name: "Vercel",
-          url: "https://vercel.com",
+          name: "Twitch",
+          url: "https://www.twitch.tv/",
+        },
+      ],
+    },
+    {
+      type: "Useful",
+      color: "teal-",
+      links: [
+        {
+          name: "FMHY",
+          url: "https://fmhy.net/",
         },
         {
-          name: "ChatGPT",
-          url: "https://chat.openai.com",
+          name: "CodeCafé",
+          url: "https://codecafe.app",
+        },
+        {
+          name: "Year Progress",
+          url: "https://year-progress.cnln.dev/",
         },
         {
           name: "Gmail",
