@@ -84,6 +84,14 @@ export const flowConfig: Config = {
           url: "https://www.roblox.com/home",
         },
         {
+          name: "Free Games",
+          url: "https://claimfreegames.com",
+        },
+        {
+          name: "Pop Bubbles",
+          url: "https://bubblepop.lol/",
+        },
+        {
           name: "Neal.fun",
           url: "https://neal.fun/",
         },
@@ -100,6 +108,14 @@ export const flowConfig: Config = {
         {
           name: "EXT",
           url: "https://ext.to/",
+        },
+        {
+          name: "Nyaa",
+          url: "http://nyaa.si/",
+        },
+        {
+          name: "Miruro (Anime)",
+          url: "https://www.miruro.tv",
         },
         {
           name: "Anna's Archive",
