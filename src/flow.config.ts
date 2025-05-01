@@ -54,12 +54,20 @@ export const flowConfig: Config = {
           url: "https://codecafe.app",
         },
         {
+          name: "Notes",
+          url: "https://notepad.js.org/",
+        },
+        {
           name: "Year Progress",
           url: "https://year-progress.cnln.dev/",
         },
         {
           name: "Gmail",
           url: "https://mail.google.com",
+        },
+        {
+          name: "Wifi Information",
+          url: "https://www.wiisfi.com/",
         },
       ],
     },
@@ -72,30 +80,34 @@ export const flowConfig: Config = {
           url: "https://youtube.com",
         },
         {
-          name: "Zoro",
-          url: "https://zoro.to",
+          name: "Roblox",
+          url: "https://www.roblox.com/home",
         },
         {
-          name: "Manga",
-          url: "https://mangareader.to",
+          name: "Neal.fun",
+          url: "https://neal.fun/",
         },
       ],
     },
     {
-      type: "Resources",
+      type: "Piracy",
       color: "purple-",
       links: [
         {
-          name: "Tailwind",
-          url: "https://tailwindcss.com/docs/customizing-colors",
+          name: "Knaben",
+          url: "https://knaben.org/",
         },
         {
-          name: "Icons",
-          url: "https://icones.js.org/",
+          name: "EXT",
+          url: "https://ext.to/",
         },
         {
-          name: "Fontshare",
-          url: "https://fontshare.com/",
+          name: "Anna's Archive",
+          url: "https://annas-archive.org/",
+        },
+        {
+          name: "Torrentbay",
+          url: "https://torrentbay.st/",
         },
       ],
     },
@@ -104,20 +116,28 @@ export const flowConfig: Config = {
       color: "rose-",
       links: [
         {
-          name: "Dev.to",
-          url: "https://dev.to",
+          name: "Fischpedia",
+          url: "https://fischipedia.org/wiki/Fisch_Wiki",
         },
         {
-          name: "Monkeytype",
-          url: "https://monkeytype.com",
+          name: "Entertrained",
+          url: "https://entertrained.app/",
         },
         {
-          name: "LH:3000",
-          url: "http://localhost:3000",
+          name: "Virutal Numbers",
+          url: "https://onlinesim.io",
         },
         {
-          name: "LH:5173",
-          url: "http://localhost:5173",
+          name: "Government Info",
+          url: "https://usafacts.org/",
+        },
+        {
+          name: "Map of Wiki",
+          url: "https://halilb84.github.io/Map-of-Wiki/",
+        },
+        {
+          name: "Clip Fish",
+          url: "https://clip.fish/",
         },
       ],
     },
